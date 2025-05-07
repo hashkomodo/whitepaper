@@ -8,7 +8,7 @@ HashKomodo is currently led by a core team of contributors using creative aliase
 
 | Alias            | Handle        | Title                                                                     | Responsibility                                                                            |
 | ---------------- | ------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Komodo Byte**  | @KMDForge     | *Co-founder* | Visionary and technical executor; manages Twitter, Telegram, and partner coordination.    |
+| **Dragon Byte**  | @KMDForge     | *Co-founder* | Visionary and technical executor; manages Twitter, Telegram, and partner coordination.    |
 | **Origin Pulse** | @OriginPulse  | *Original Founder*             | Initial concept originator, branding strategist, strategic partnerships, Discord manager. |
 | **EchoCraft**    | @EchoCraft    | *Community Manager*                                                       | Leads social campaigns, Discord/Telegram engagement, and community coordination.          |
 | **ThreadWeaver** | @ThreadWeaver | *Community Admin*                                                         | Handles day-to-day event operations and tech support across platforms.                    |
