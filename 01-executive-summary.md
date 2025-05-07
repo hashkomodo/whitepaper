@@ -13,6 +13,3 @@ Our community spans a diverse audience—**NFT collectors**, **blockchain gamers
 HashKomodo's **foundational Gen 0 collection** will soon be available, setting the stage for an **expansive roadmap**, featuring **next-generation NFTs**, **token utility integration**, **VR/AR experiences**, and immersive **digital-to-physical collectibles**. HashKomodo's ecosystem integrates **NFTs**, **token utilities**, **immersive gameplay**, **virtual reality (VR) experiences**, **rich storytelling (lore)**, and **tangible conservation initiatives**. As we continue to realize our ambitious vision of a **multi-generational**, **multi-platform narrative ecosystem**, the journey promises **innovation**, **engagement**, and **tangible conservation outcomes**.
 
 Join us on this *epic adventure*. Be part of a **legendary story** unfolding across the *blockchain multiverse*, where your participation directly contributes to preserving the *real-world legacy* of *Earth's last dragons*.
-
-➡️ **[Explore our Roadmap](roadmap.md)** | 🔨 **[Join Our Community on Discord](#)**
-
